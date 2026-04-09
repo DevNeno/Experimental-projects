@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+myenv/
+testAlice.py
+testBob.py
+nodeTest.py
